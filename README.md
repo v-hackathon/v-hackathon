@@ -5,7 +5,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020617,45:1D4ED8,75:7C3AED,100:06B6D4&text=TURNING%20IDEAS%20INTO%20REAL%20SOLUTIONS&fontColor=FFFFFF&fontSize=27&fontAlignY=38&desc=DEVELOPER%20%2F%20BUILDER%20%2F%20LIFELONG%20LEARNER&descAlignY=60&descSize=13" alt="Profile banner"/>
 
-# Hey, I'm YOUR_NAME 👋
+# Hey, I'm Vaibhav_langariya 👋
 
 ### Building useful things. Solving real problems.
 
